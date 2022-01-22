@@ -1,0 +1,15 @@
+.info-background {
+    background-color: #FEEAE9;
+}
+
+.bag-bg {
+    background-color: orchid;
+}
+
+.btn-bg {
+    background-color: #ff3383;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
